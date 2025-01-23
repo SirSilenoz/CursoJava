@@ -68,6 +68,5 @@ public class ProgramAccount {
         System.out.println(account);
 
         sc.close();
-
     }
 }
